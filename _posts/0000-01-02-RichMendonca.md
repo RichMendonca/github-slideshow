@@ -1,11 +1,6 @@
 ---
-
 layout: slide
-
 title: "Welcome to our second slide!"
-
 ---
-
-Your text
-
+I think, therefore I am
 Use the left arrow to go back
